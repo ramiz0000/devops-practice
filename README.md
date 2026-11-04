@@ -18,3 +18,7 @@ Learning Git Pull practically.
 
 ## New Feature
 Login feature development started.
+
+
+## Documentation
+This project demonstrates Git branching and Pull Request workflow.
