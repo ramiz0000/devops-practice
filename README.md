@@ -9,3 +9,8 @@ This is my first Git repository.
 - Docker
 - AWS
 - CI/CD
+
+## My Goal
+Become a DevOps Engineer.
+
+i want to be an engineer
